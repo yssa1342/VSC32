@@ -1,0 +1,4 @@
+F:\new code\V6\V6\obj\Debug\V6.csproj.AssemblyReference.cache
+F:\new code\V6\V6\obj\Debug\V6.Properties.Resources.resources
+F:\new code\V6\V6\obj\Debug\V6.csproj.GenerateResource.cache
+F:\new code\V6\V6\obj\Debug\V6.csproj.CoreCompileInputs.cache
